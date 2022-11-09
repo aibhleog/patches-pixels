@@ -16,7 +16,6 @@ __email__ = 'astro.hutchison@gmail.com'
 
 
 import numpy as np
-import astropy.io.fits as fits
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 from matplotlib.patches import Ellipse,Circle,Wedge,Rectangle
